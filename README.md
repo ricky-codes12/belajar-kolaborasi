@@ -1,2 +1,2 @@
-# PERUBAHAN 1
+# PERUBAHAN 2
 penulisancode
